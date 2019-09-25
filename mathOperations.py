@@ -17,6 +17,10 @@ h = 32
 
 print(g-h)
 
+#numChairs
+rooms = 5
+studentsPerClass = 30
+print("The number of chairs in the school is " + str(rooms*studentsPerClass))
 #classroomStudents
 m = 80
 n = 5

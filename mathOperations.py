@@ -34,3 +34,5 @@ print(str(10) + "/" + str(2))
 print(40 * 0)
 print("Hello 1 2 and " + str(3))
 print("1"+"2"+"3")
+
+print(7%2)
